@@ -42,3 +42,7 @@ a {
     width: 100%;
     border-radius: 50%;
   }
+
+  body {
+    background: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%);
+  }
