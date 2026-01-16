@@ -46,3 +46,7 @@ a {
   body {
     background: linear-gradient(to right, #f7d3a1 0%, #fcb69f 100%);
   }
+
+  p {
+    font-family: 'Courier New', Courier, monospace;
+  }
